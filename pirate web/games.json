@@ -6,8 +6,18 @@
     },
     {
         "name": "Sons Of The Foresrt",
-        "description": "Zabavná hra",
+        "description": "lorem ipsum set amet", 
         "url": "https://crack.com/",
+        "img": "https://img.etimg.com/thumb/msid-98415202,width-1100,height-619,imgsize-93800,overlay-economictimes/photo.jpg"
+    }, {
+        "name": "Subnautica",
+        "description": "Zabavná hra",
+        "url": "https://1cloudfile.com/i6xT",
+        "img": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/en_US/games/switch/s/subnautica-switch/hero"
+    }, {
+        "name": "Jump King",
+        "description": "Zabavná hra",
+        "url": "https://i0.wp.com/game3rb.com/wp-content/uploads/2022/05/0-66.jpg?resize=670%2C384&ssl=1",
         "img": "/src/imgs/adolf.png"
     }, {
         "name": "Sons Of The Foresrt",
@@ -19,7 +29,12 @@
         "description": "Zabavná hra",
         "url": "https://crack.com/",
         "img": "/src/imgs/adolf.png"
-    }
+    }, {
+        "name": "Sons Of The Foresrt",
+        "description": "Zabavná hra",
+        "url": "https://crack.com/",
+        "img": "/src/imgs/adolf.png"
+    } 
 
 
 ]
